@@ -1,13 +1,13 @@
 # Machine-Learning---House-Prices
 
-Business Problem Understanding
-Context
+# Business Problem Understanding
+## Context
 Harga rumah mengalami kenaikan setiap tahunnya. Hal itu dikarenakan meningkatnya kebutuhan akan rumah namun disaat yang bersamaan berkurangnya lahan yang tersedia. Harga rumah dapat berbeda-beda disetiap wilayah tergantung dari kondisi rumah, kondisi wilayah sekitar serta penilaian pribadi dari penjual rumah.
 
-Problem Statement
+## Problem Statement
 Berdasarkan konteks diatas dapat dilihat bahwa pentingnya mencari harga rumah yang sesuai dengan keinginan namun tetap mendapatkan value setinggi mungkin.
 
-Goals
+## Goals
 Berikut merupakan beberapa tujuan yang ingin dicapai dalam pembuatan machine learning ini:
 
 Prediksi Harga: Tujuan utama adalah mengembangkan model machine learning yang dapat memprediksi dengan akurat harga jual rumah. Ini akan membantu pembeli dan penjual memahami nilai pasar dari sebuah properti.
